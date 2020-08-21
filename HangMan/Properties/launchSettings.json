@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HangMan": {
+      "commandName": "Project",
+      "commandLineArgs": "wordlist\\HangManWords.txt"
+    }
+  }
+}
